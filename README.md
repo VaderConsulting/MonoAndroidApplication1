@@ -21,6 +21,10 @@ VS 2010 C# Mono for Android (Novell MonoDroid) working copy whose MainLauncher A
 
 Open `MonoAndroidApplication1.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2010
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2012
